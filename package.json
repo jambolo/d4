@@ -1,0 +1,12 @@
+{
+  "name": "d4",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Bolton <jambolo@users.noreply.github.com> (https://jambolo.github.io/)",
+  "license": "MIT"
+}
