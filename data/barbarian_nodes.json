@@ -1,0 +1,2434 @@
+{
+  "table": {
+    "thead": {
+      "tr": {
+        "th": [
+          "Paragon Node",
+          "Rarity",
+          "Paragon Board",
+          "Description",
+          "Bonus Effect"
+        ]
+      }
+    },
+    "tbody": {
+      "tr": [
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_life_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_life_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare life on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Tenacity",
+                  "_href": "/Tenacity",
+                  "_target": "",
+                  "__text": "Tenacity"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Barbarian Basic Board",
+                  "Bone Breaker"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "4.0% Maximum Life, +100 Armor",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 4.0% Maximum Life if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare physical dmg on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Brawn",
+                  "_href": "/Brawn",
+                  "_target": "",
+                  "__text": "Brawn"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Barbarian Basic Board",
+                  "Decimator"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Physical Damage, 4.0% Maximum Life",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +10.0% Physical Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare armor on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Iron Strength",
+                  "_href": "/Iron+Strength",
+                  "_target": "",
+                  "__text": "Iron Strength"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Barbarian Basic Board",
+                  "Weapons Master"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "+100 Armor, +10 Strength",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +100 Armor if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare physical dmg on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Raw Power",
+                  "_href": "/Raw+Power",
+                  "_target": "",
+                  "__text": "Raw Power"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Barbarian Basic Board",
+                  "Warbringer",
+                  "Weapons Master"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Physical Damage, +10 Strength",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +10.0% Physical Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Hemorrhage (Paragon Node)",
+                  "_href": "/Hemorrhage+(Paragon+Node)",
+                  "__text": "Hemorrhage (Paragon Node)"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              },
+              "_style": "text-align: center;"
+            },
+            "Enemies that have been affected by your Bleeding for 3 or more seconds take 12%[x] increased damage from you.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Butcher",
+                  "_href": "/Butcher",
+                  "_target": "",
+                  "__text": "Butcher"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              }
+            },
+            {
+              "p": "+10.0% Physical Damage Over Time, +10 Strength"
+            },
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270 \n."
+                }
+              },
+              "__text": "Another +10.0% Physical Damage Over Time if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Grit",
+                  "_href": "/Grit",
+                  "_target": "",
+                  "__text": "Grit"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Hemorrhage",
+                  "Blood Rage"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "4.0% Damage Reduction from Enemies That Are Bleeding, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another 4.0% Damage Reduction from Enemies That Are Bleeding if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_poison_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_poison_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare poison resistance on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Poison Conditioned",
+                  "_href": "/Poison+Conditioned",
+                  "_target": "",
+                  "__text": "Poison Conditioned"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              },
+              "_style": "text-align: center;"
+            },
+            "12.0% Poison Resistance, +100 Armor",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 12.0% Poison Resistance if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Flayer",
+                  "_href": "/Flayer",
+                  "_target": "",
+                  "__text": "Flayer"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Physical Damage Over Time, +10.0% Damage to Bleeding Enemies",
+            {
+              "ul": {
+                "li": [
+                  {
+                    "a": {
+                      "_class": "wiki_link",
+                      "_title": "Diablo 4 Dexterity",
+                      "_href": "/Dexterity",
+                      "_target": "",
+                      "__text": "Dexterity"
+                    },
+                    "__text": "260"
+                  },
+                  {
+                    "a": {
+                      "_class": "wiki_link",
+                      "_title": "Diablo 4 Strength",
+                      "_href": "/Strength",
+                      "_target": "",
+                      "__text": "Strength"
+                    },
+                    "__text": "350"
+                  }
+                ]
+              },
+              "__text": "Another +10.0% Physical Damage Over Time if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare physical dmg over time on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Fleeting",
+                  "_href": "/Fleeting",
+                  "_target": "",
+                  "__text": "Fleeting"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              },
+              "_style": "text-align: center;"
+            },
+            "8.0% Control impaired Duration Reduction, 6.5% Damage Taken Over Time Reduction",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 8.0% Control impaired Duration Reduction if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Lacerator",
+                  "_href": "/Lacerator",
+                  "_target": "",
+                  "__text": "Lacerator"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Hemorrhage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Physical Damage Over Time, +10.0% Physical Damage",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Strength",
+                    "_href": "/Strength",
+                    "_target": "",
+                    "__text": "Strength"
+                  },
+                  "__text": "360"
+                }
+              },
+              "__text": "Another +10.0% Physical Damage Over Time if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Blood Rage",
+                  "_href": "/Blood+Rage",
+                  "_target": "",
+                  "__text": "Blood Rage"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Blood Rage"
+              },
+              "_style": "text-align: center;"
+            },
+            "Killing a Bleeding enemy has 10% chance to grant Berserking for 5 seconds.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare potion healing on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Restorative",
+                  "_href": "/Restorative",
+                  "_target": "",
+                  "__text": "Restorative"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Blood Rage",
+                  "Decimator"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "4.0% Maximum Life, +40% Potion Healing",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +4.0% Potion Healing if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare enraged diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Enraged",
+                  "_href": "/Enraged",
+                  "_target": "",
+                  "__text": "Enraged"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Blood Rage",
+                  "Carnage"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "+15.0% Berserking Duration, +10.0% Damage while Berserking",
+            {
+              "ul": {
+                "li": [
+                  {
+                    "a": {
+                      "_class": "wiki_link",
+                      "_title": "Diablo 4 Willpower",
+                      "_href": "/Willpower",
+                      "_target": "",
+                      "__text": "Willpower"
+                    },
+                    "__text": "260"
+                  },
+                  {
+                    "a": {
+                      "_class": "wiki_link",
+                      "_title": "Diablo 4 Strength",
+                      "_href": "/Strength",
+                      "_target": "",
+                      "__text": "Strength"
+                    },
+                    "__text": "350"
+                  }
+                ]
+              },
+              "__text": "Another +10.0% Damage while Berserking if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Revel",
+                  "_href": "/Revel",
+                  "_target": "",
+                  "__text": "Revel"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Blood Rage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Damage to Bleeding Enemies, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +10.0% Damage to Bleeding Enemies if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare fire resistance on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Fire Conditioned",
+                  "_href": "/Fire+Conditioned",
+                  "_target": "",
+                  "__text": "Fire Conditioned"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Blood Rage"
+              },
+              "_style": "text-align: center;"
+            },
+            "12.0% Fire Resistance, +100 Armor",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "250"
+                }
+              },
+              "__text": "Another 12.0% Fire Resistance if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare lacerator diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Craving",
+                  "_href": "/Craving",
+                  "_target": "",
+                  "__text": "Craving"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Blood Rage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Damage to Bleeding Enemies, +16.0% Damage to Elites",
+            {
+              "ul": {
+                "li": "260 Dexterity"
+              },
+              "__text": "Another +10.0% Damage to Bleeding Enemies if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Carnage",
+                  "_href": "/Carnage",
+                  "_target": "",
+                  "__text": "Carnage"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Carnage"
+              },
+              "_style": "text-align: center;"
+            },
+            "While Berserking, Critical Strikes increase your Attack Speed by 2%[+], up to 8%[+], for 6 seconds.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare cold resistance on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Cold Conditioned",
+                  "_href": "/Cold+Conditioned",
+                  "_target": "",
+                  "__text": "Cold Conditioned"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Carnage"
+              },
+              "_style": "text-align: center;"
+            },
+            "12.0% Cold Resistance, +100 Armor",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "250"
+                }
+              },
+              "__text": "Another 12.0% Cold Resistance if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare enraged diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Berserker",
+                  "_href": "/Berserker",
+                  "_target": "",
+                  "__text": "Berserker"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Carnage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+5.0% Damage while Berserking, +16.0% Damage to Elites",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +5.0% Damage while Berserking if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare enraged diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Fierce",
+                  "_href": "/Fierce",
+                  "_target": "",
+                  "__text": "Fierce"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Carnage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Damage while Berserking, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +10.0% Damage while Berserking if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare dmg reduction slowed on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Brash",
+                  "_href": "/Brash",
+                  "_target": "",
+                  "__text": "Brash"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": [
+                  "Carnage",
+                  "Flawless Technique"
+                ]
+              },
+              "_style": "text-align: center;"
+            },
+            "4.5% Damage Reduction from Close Enemies, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "250"
+                }
+              },
+              "__text": "Another 4.5% Damage Reduction from Close Enemies if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare potion healing on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Recuperate",
+                  "_href": "/Recuperate",
+                  "_target": "",
+                  "__text": "Recuperate"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Carnage"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10 Life Regeneration while Not Damaged Recently, +40% Potion Healing",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +4.0% Potion Healing if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Decimator",
+                  "_href": "/Decimator",
+                  "_target": "",
+                  "__text": "Decimator"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Decimator"
+              },
+              "_style": "text-align: center;"
+            },
+            "Lucky Hit: Two-Handed Slashing Weapon attacks have up to a 8% chance to make enemies Vulnerable for 2 seconds.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare chance execute injured on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Demolish",
+                  "_href": "/Demolish",
+                  "_target": "",
+                  "__text": "Demolish"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Decimator"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Vulnerable Damage, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +10.0% Vulnerable Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare chance execute injured on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Arrogance",
+                  "_href": "/Arrogance",
+                  "_target": "",
+                  "__text": "Arrogance"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Decimator"
+              },
+              "_style": "text-align: center;"
+            },
+            "4.0% Damage Reduction from Vulnerable Enemies, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another 4.0% Damage Reduction from Vulnerable Enemies if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare chance execute injured on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Pillage",
+                  "_href": "/Pillage",
+                  "_target": "",
+                  "__text": "Pillage"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Decimator"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Vulnerable Damage, + 100 Armor",
+            {
+              "ul": {
+                "li": [
+                  "260 Willpower",
+                  "350 Strength"
+                ]
+              },
+              "__text": "Another +10.0% Vulnerable Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_destroyer_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare destroyer diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Destroyer",
+                  "_href": "/Destroyer",
+                  "_target": "",
+                  "__text": "Destroyer"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Decimator"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Vulnerable Damage, +10.0% Damage with Two-Handed Slashing Weapons",
+            {
+              "ul": {
+                "li": "345 Strength"
+              },
+              "__text": "Another +10.0% Damage with Two-Handed Slashing Weapons if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Bone Breaker",
+                  "_href": "/Bone+Breaker",
+                  "_target": "",
+                  "__text": "Bone Breaker"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              },
+              "_style": "text-align: center;"
+            },
+            "Overpowers with your Two- Handed Bludgeoning Weapon Stun enemies for 1 second and grant you 20% of your Maximum Life (273) as Fortify.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare inner strength diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Bulwark",
+                  "_href": "/Bulwark",
+                  "_target": "",
+                  "__text": "Bulwark"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              }
+            },
+            "+65% Fortify Generation, 4.0% Damage Reduction while Fortified",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 4.0% Damage Reduction while Fortified if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare inner strength diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Inner Strength",
+                  "_href": "/Inner+Strength",
+                  "_target": "",
+                  "__text": "Inner Strength"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Damage while Fortified, +12.S% Damage while Healthy",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another +10.0% Damage while Fortified if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_bludgeoning_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_overpower_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare overpower on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Bludgeoner",
+                  "_href": "/Bludgeoner",
+                  "_target": "",
+                  "__text": "Bludgeoner"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              },
+              "_style": "text-align: center;"
+            },
+            "+30.0% Overpower Damage, +10.0% Damage with Two—Handed Bludgeoning Weapons",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Strength",
+                    "_href": "/Strength",
+                    "_target": "",
+                    "__text": "Strength"
+                  },
+                  "__text": "360"
+                }
+              },
+              "__text": "Another +10.0% Damage with Two-Handed Bludgeoning Weapons if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_overpower_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_brutality_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare brutality diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Brutality",
+                  "_href": "/Brutality",
+                  "_target": "",
+                  "__text": "Brutality"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              },
+              "_style": "text-align: center;"
+            },
+            "+30.0% Overpower Damage, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another +30.0% Overpower Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare dmg reduction slowed on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Vigor",
+                  "_href": "/Vigor",
+                  "_target": "",
+                  "__text": "Vigor"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Bone Breaker"
+              },
+              "_style": "text-align: center;"
+            },
+            "5.0% Damage Reduction while Healthy, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "250"
+                }
+              },
+              "__text": "Another 5.0% Damage Reduction while Healthy if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Flawless Technique",
+                  "_href": "/Flawless+Technique",
+                  "_target": "",
+                  "__text": "Flawless Technique"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "Damaging enemies with One-Handed Weapons increases your Critical Strike chance by 1%[x] for 2 seconds, up to 5%[x]. This can only happen once per Skill cast, or twice per second while channeling Whirlwind.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare cold resistance on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Cold Resilience",
+                  "_href": "/Cold+Resilience",
+                  "_target": "",
+                  "__text": "Cold Resilience"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "12.0% Cold Resistance, 4.0% Maximum Life",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 12.0% Cold Resistance if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare damage slashing on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Wild Force",
+                  "_href": "/Wild+Force",
+                  "_target": "",
+                  "__text": "Wild Force"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "+5.0% Attack Speed, +10.0% Damage with One-Handed Weapons",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +10.0% Damage with One-Handed Weapons if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare critical strike damage crowd on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Havoc",
+                  "_href": "/Havoc",
+                  "_target": "",
+                  "__text": "Havoc"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "+10.0% Physical Damage, +15.0% Critical Strike Damage",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +15.0% Critical Strike Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare armor on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Slayer (Paragon Node)",
+                  "_href": "/Slayer+(Paragon+Node)",
+                  "__text": "Slayer (Paragon Node)"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "+100 Armor, +40% Potion Healing",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +100 Armor if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare critical strike damage crowd on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Heavy Blows",
+                  "_href": "/Heavy+Blows",
+                  "_target": "",
+                  "__text": "Heavy Blows"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Flawless Technique"
+              },
+              "_style": "text-align: center;"
+            },
+            "+15.0% Critical Strike Damage with One-Handed Weapons, +10 Strength",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another +15.0% Critical Strike Damage with One-Handed Weapons if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Warbringer",
+                  "_href": "/Warbringer",
+                  "_target": "",
+                  "__text": "Warbringer"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Warbringer"
+              },
+              "_style": "text-align: center;"
+            },
+            "Warbringer: For every 75 Fury you spend, gain 12% of your Maximum Life (164) as Fortify.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare fire resistance on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Fire Resilience",
+                  "_href": "/Fire+Resilience",
+                  "_target": "",
+                  "__text": "Fire Resilience"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Warbringer"
+              },
+              "_style": "text-align: center;"
+            },
+            "12.0% Fire Resistance, 4.0% Maximum Life",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another 12.0% Fire Resistance if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_essence_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare inner strength diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Hungering Fury",
+                  "_href": "/Hungering+Fury",
+                  "_target": "",
+                  "__text": "Hungering Fury"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "ul": {
+                "li": "Warbringer"
+              },
+              "_style": "text-align: center;"
+            },
+            "+8 Maximum Fury, +2 Fury On Kill",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another +8 Maximum Fury if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare inner strength diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Guarded Advance",
+                  "_href": "/Guarded+Advance",
+                  "_target": "",
+                  "__text": "Guarded Advance"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Warbringer"
+            },
+            "+10.0% Damage while Fortified, +65% Fortify Generation",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +10.0% Damage while Fortified if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_essence_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_hungering_fury_diablo_iv_wiki_guide_50px.png",
+                    "_alt": "rare hungering fury diablo iv wiki guide 50px",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Core Reserve",
+                  "_href": "/Core+Reserve",
+                  "_target": "",
+                  "__text": "Core Reserve"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Warbringer"
+            },
+            "+8 Maximum Fury, 4.0% Maximum Life",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "270"
+                }
+              },
+              "__text": "Another 270 Willpower if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare resistance on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Conditioned",
+                  "_href": "/Conditioned",
+                  "_target": "",
+                  "__text": "Conditioned"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Warbringer"
+            },
+            "+10 Strength, 4.0% Resistance to All Elements",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Willpower",
+                    "_href": "/Willpower",
+                    "_target": "",
+                    "__text": "Willpower"
+                  },
+                  "__text": "260"
+                }
+              },
+              "__text": "Another 4.0% Resistance to All Elements if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "legendary_rage_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "legendary rage on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Weapons Master",
+                  "_href": "/Weapons+Master",
+                  "_target": "",
+                  "__text": "Weapons Master"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffcc99;",
+                "__text": "Legendary"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Weapons Master"
+            },
+            "Swapping weapons grants you 3 Fury.",
+            "-"
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_dmg_reduction_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare damage on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Hunter Killer",
+                  "_href": "/Hunter+Killer",
+                  "_target": "",
+                  "__text": "Hunter Killer"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Weapons Master"
+            },
+            "+14.0% Movement Speed for 4 Seconds After Killing an Elite, +16.0% Damage to Elites",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another +16.0% Damage to Elites if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare physical dmg on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Brute",
+                  "_href": "/Brute",
+                  "_target": "",
+                  "__text": "Brute"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Weapons Master"
+            },
+            "+5.0% Attack Speed, +10.0% Physical Damage",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Strength",
+                    "_href": "/Strength",
+                    "_target": "",
+                    "__text": "Strength"
+                  },
+                  "__text": "360"
+                }
+              },
+              "__text": "Another +10.0% Physical Damage if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare resistance on rogue paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Denial",
+                  "_href": "/Denial",
+                  "_target": "",
+                  "__text": "Denial"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Weapons Master"
+            },
+            "+100 Armor, 4.0% Resistance to All Elements",
+            {
+              "ul": {
+                "li": "Varies according to the character class. Check on Paragon Node for more information."
+              },
+              "__text": "Another 4.0% Resistance to All Elements if requirements met:"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "h5": {
+                "a": {
+                  "img": {
+                    "_title": "rare_lightning_resistance_on_paragon_type_diablo_iv_wiki_guide",
+                    "_src": "/file/Diablo-4/rare_lightning_resistance_on_paragon_type_diablo_iv_wiki_guide.png",
+                    "_alt": "rare lightning resistance on paragon type diablo iv wiki guide",
+                    "_width": "50",
+                    "_height": "50"
+                  },
+                  "_class": "wiki_link",
+                  "_title": "Diablo 4 Lightning Conditioned",
+                  "_href": "/Lightning+Conditioned",
+                  "_target": "",
+                  "__text": "Lightning Conditioned"
+                }
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "span": {
+                "_style": "color: #ffff99;",
+                "__text": "Rare"
+              },
+              "_style": "text-align: center;"
+            },
+            {
+              "_style": "text-align: center;",
+              "__text": "Weapons Master"
+            },
+            "12.0% Lightning Resistance, +100 Armor",
+            {
+              "ul": {
+                "li": {
+                  "a": {
+                    "_class": "wiki_link",
+                    "_title": "Diablo 4 Dexterity",
+                    "_href": "/Dexterity",
+                    "_target": "",
+                    "__text": "Dexterity"
+                  },
+                  "__text": "250"
+                }
+              },
+              "__text": "Another 12.0% Lightning Resistance if requirements met:"
+            }
+          ]
+        }
+      ]
+    },
+    "tfoot": "",
+    "_class": "wiki_table sortable searchable",
+    "_data-key": "jumboxx"
+  }
+}

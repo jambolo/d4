@@ -1,0 +1,640 @@
+<table class="wiki_table sortable searchable" data-key="jumboxx"> 
+   <thead> 
+    <tr> 
+     <th>Paragon Node </th> 
+     <th>Rarity</th> 
+     <th>Paragon Board</th> 
+     <th>Description</th> 
+     <th>Bonus Effect </th> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Tenacity" href="/Tenacity" target=""><img title="rare_life_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_life_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare life on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Tenacity</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Barbarian Basic Board</li> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>4.0% Maximum Life, +100 Armor</td> 
+     <td>Another 4.0% Maximum Life if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Brawn" href="/Brawn" target=""><img title="rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare physical dmg on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Brawn</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Barbarian Basic Board</li> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>+10.0% Physical Damage, 4.0% Maximum Life</td> 
+     <td>Another +10.0% Physical Damage if requirements met:  
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Iron Strength" href="/Iron+Strength" target=""><img title="rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare armor on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Iron Strength</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Barbarian Basic Board</li> 
+       <li>Weapons Master</li> 
+      </ul> </td> 
+     <td>+100 Armor, +10 Strength</td> 
+     <td>Another +100 Armor if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Raw Power" href="/Raw+Power" target=""><img title="rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare physical dmg on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Raw Power</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Barbarian Basic Board</li> 
+       <li>Warbringer</li> 
+       <li>Weapons Master</li> 
+      </ul> </td> 
+     <td>+10.0% Physical Damage, +10 Strength</td> 
+     <td>Another +10.0% Physical Damage if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Hemorrhage (Paragon Node)" href="/Hemorrhage+(Paragon+Node)"><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Hemorrhage (Paragon Node)</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li> Hemorrhage</li> 
+      </ul> </td> 
+     <td>Enemies that have been affected by your Bleeding for 3 or more seconds take 12%[x] increased damage from you.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Butcher" href="/Butcher" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Butcher</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td> 
+      <ul> 
+       <li>Hemorrhage</li> 
+      </ul> </td> 
+     <td> <p>+10.0% Physical Damage Over Time, +10 Strength</p> </td> 
+     <td>Another +10.0% Physical Damage Over Time if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a>.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Grit" href="/Grit" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Grit</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Hemorrhage</li> 
+       <li>Blood Rage</li> 
+      </ul> </td> 
+     <td>4.0% Damage Reduction from Enemies That Are Bleeding, +10 Strength</td> 
+     <td>Another 4.0% Damage Reduction from Enemies That Are Bleeding if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Poison Conditioned" href="/Poison+Conditioned" target=""><img title="rare_poison_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_poison_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare poison resistance on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Poison Conditioned</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Hemorrhage</li> 
+      </ul> </td> 
+     <td>12.0% Poison Resistance, +100 Armor</td> 
+     <td>Another 12.0% Poison Resistance if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Flayer" href="/Flayer" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Flayer</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Hemorrhage</li> 
+      </ul> </td> 
+     <td>+10.0% Physical Damage Over Time, +10.0% Damage to Bleeding Enemies</td> 
+     <td>Another +10.0% Physical Damage Over Time if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+       <li>350 <a class="wiki_link" title="Diablo 4 Strength" href="/Strength" target="">Strength</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Fleeting" href="/Fleeting" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare physical dmg over time on paragon type diablo iv wiki guide" width="50" height="50"/>Fleeting</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Hemorrhage</li> 
+      </ul> </td> 
+     <td>8.0% Control impaired Duration Reduction, 6.5% Damage Taken Over Time Reduction</td> 
+     <td>Another 8.0% Control impaired Duration Reduction if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Lacerator" href="/Lacerator" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Lacerator</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Hemorrhage</li> 
+      </ul> </td> 
+     <td>+10.0% Physical Damage Over Time, +10.0% Physical Damage</td> 
+     <td>Another +10.0% Physical Damage Over Time if requirements met: 
+      <ul> 
+       <li>360 <a class="wiki_link" title="Diablo 4 Strength" href="/Strength" target="">Strength</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Blood Rage" href="/Blood+Rage" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Blood Rage</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+      </ul> </td> 
+     <td>Killing a Bleeding enemy has 10% chance to grant Berserking for 5 seconds.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Restorative" href="/Restorative" target=""><img title="rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare potion healing on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Restorative</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>4.0% Maximum Life, +40% Potion Healing</td> 
+     <td>Another +4.0% Potion Healing if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Enraged" href="/Enraged" target=""><img title="rare_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png" alt="rare enraged diablo iv wiki guide 50px" width="50" height="50"/>Enraged</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>+15.0% Berserking Duration, +10.0% Damage while Berserking</td> 
+     <td>Another +10.0% Damage while Berserking if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+       <li>350 <a class="wiki_link" title="Diablo 4 Strength" href="/Strength" target="">Strength</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Revel" href="/Revel" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Revel</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+      </ul> </td> 
+     <td>+10.0% Damage to Bleeding Enemies, +10 Strength</td> 
+     <td>Another +10.0% Damage to Bleeding Enemies if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Fire Conditioned" href="/Fire+Conditioned" target=""><img title="rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare fire resistance on paragon type diablo iv wiki guide" width="50" height="50"/>Fire Conditioned</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+      </ul> </td> 
+     <td>12.0% Fire Resistance, +100 Armor</td> 
+     <td>Another 12.0% Fire Resistance if requirements met: 
+      <ul> 
+       <li>250 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Craving" href="/Craving" target=""><img title="rare_physical_dmg_over_time_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lacerator_diablo_iv_wiki_guide_50px.png" alt="rare lacerator diablo iv wiki guide 50px" width="50" height="50"/>Craving</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Blood Rage</li> 
+      </ul> </td> 
+     <td>+10.0% Damage to Bleeding Enemies, +16.0% Damage to Elites</td> 
+     <td>Another +10.0% Damage to Bleeding Enemies if requirements met: 
+      <ul> 
+       <li>260 Dexterity</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Carnage" href="/Carnage" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Carnage</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>While Berserking, Critical Strikes increase your Attack Speed by 2%[+], up to 8%[+], for 6 seconds.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Cold Conditioned" href="/Cold+Conditioned" target=""><img title="rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare cold resistance on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Cold Conditioned</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>12.0% Cold Resistance, +100 Armor</td> 
+     <td>Another 12.0% Cold Resistance if requirements met: 
+      <ul> 
+       <li>250 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Berserker" href="/Berserker" target=""><img title="rare_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png" alt="rare enraged diablo iv wiki guide 50px" width="50" height="50"/>Berserker</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>+5.0% Damage while Berserking, +16.0% Damage to Elites</td> 
+     <td>Another +5.0% Damage while Berserking if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Fierce" href="/Fierce" target=""><img title="rare_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_enraged_diablo_iv_wiki_guide_50px.png" alt="rare enraged diablo iv wiki guide 50px" width="50" height="50"/>Fierce</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>+10.0% Damage while Berserking, +10 Strength</td> 
+     <td>Another +10.0% Damage while Berserking if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Brash" href="/Brash" target=""><img title="rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare dmg reduction slowed on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Brash</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>4.5% Damage Reduction from Close Enemies, +10 Strength</td> 
+     <td>Another 4.5% Damage Reduction from Close Enemies if requirements met: 
+      <ul> 
+       <li>250 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Recuperate" href="/Recuperate" target=""><img title="rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_potion_healing_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare potion healing on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Recuperate</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Carnage</li> 
+      </ul> </td> 
+     <td>+10 Life Regeneration while Not Damaged Recently, +40% Potion Healing</td> 
+     <td>Another +4.0% Potion Healing if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Decimator" href="/Decimator" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Decimator</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>Lucky Hit: Two-Handed Slashing Weapon attacks have up to a 8% chance to make enemies Vulnerable for 2 seconds.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Demolish" href="/Demolish" target=""><img title="rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare chance execute injured on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Demolish</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>+10.0% Vulnerable Damage, +10 Strength</td> 
+     <td>Another +10.0% Vulnerable Damage if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Arrogance" href="/Arrogance" target=""><img title="rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare chance execute injured on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Arrogance</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>4.0% Damage Reduction from Vulnerable Enemies, +10 Strength</td> 
+     <td>Another 4.0% Damage Reduction from Vulnerable Enemies if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Pillage" href="/Pillage" target=""><img title="rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_chance_execute_injured_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare chance execute injured on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Pillage</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>+10.0% Vulnerable Damage, + 100 Armor</td> 
+     <td>Another +10.0% Vulnerable Damage if requirements met: 
+      <ul> 
+       <li>260 Willpower</li> 
+       <li>350 Strength</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Destroyer" href="/Destroyer" target=""><img title="rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_destroyer_diablo_iv_wiki_guide_50px.png" alt="rare destroyer diablo iv wiki guide 50px" width="50" height="50"/>Destroyer</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Decimator</li> 
+      </ul> </td> 
+     <td>+10.0% Vulnerable Damage, +10.0% Damage with Two-Handed Slashing Weapons</td> 
+     <td>Another +10.0% Damage with Two-Handed Slashing Weapons if requirements met: 
+      <ul> 
+       <li>345 Strength</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Bone Breaker" href="/Bone+Breaker" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Bone Breaker</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>Overpowers with your Two- Handed Bludgeoning Weapon Stun enemies for 1 second and grant you 20% of your Maximum Life (273) as Fortify.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Bulwark" href="/Bulwark" target=""><img title="rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png" alt="rare inner strength diablo iv wiki guide 50px" width="50" height="50"/>Bulwark</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>+65% Fortify Generation, 4.0% Damage Reduction while Fortified</td> 
+     <td>Another 4.0% Damage Reduction while Fortified if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Inner Strength" href="/Inner+Strength" target=""><img title="rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png" alt="rare inner strength diablo iv wiki guide 50px" width="50" height="50"/>Inner Strength</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>+10.0% Damage while Fortified, +12.S% Damage while Healthy</td> 
+     <td>Another +10.0% Damage while Fortified if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Bludgeoner" href="/Bludgeoner" target=""><img title="rare_damage_bludgeoning_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_overpower_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare overpower on paragon type diablo iv wiki guide" width="50" height="50"/>Bludgeoner</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>+30.0% Overpower Damage, +10.0% Damage with Two—Handed Bludgeoning Weapons</td> 
+     <td>Another +10.0% Damage with Two-Handed Bludgeoning Weapons if requirements met: 
+      <ul> 
+       <li>360 <a class="wiki_link" title="Diablo 4 Strength" href="/Strength" target="">Strength</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Brutality" href="/Brutality" target=""><img title="rare_overpower_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_brutality_diablo_iv_wiki_guide_50px.png" alt="rare brutality diablo iv wiki guide 50px" width="50" height="50"/>Brutality</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>+30.0% Overpower Damage, +10 Strength</td> 
+     <td>Another +30.0% Overpower Damage if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Vigor" href="/Vigor" target=""><img title="rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_dmg_reduction_slowed_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare dmg reduction slowed on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Vigor</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Bone Breaker</li> 
+      </ul> </td> 
+     <td>5.0% Damage Reduction while Healthy, +10 Strength</td> 
+     <td>Another 5.0% Damage Reduction while Healthy if requirements met: 
+      <ul> 
+       <li>250 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Flawless Technique" href="/Flawless+Technique" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Flawless Technique</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>Damaging enemies with One-Handed Weapons increases your Critical Strike chance by 1%[x] for 2 seconds, up to 5%[x]. This can only happen once per Skill cast, or twice per second while channeling Whirlwind.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Cold Resilience" href="/Cold+Resilience" target=""><img title="rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_cold_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare cold resistance on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Cold Resilience</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>12.0% Cold Resistance, 4.0% Maximum Life</td> 
+     <td>Another 12.0% Cold Resistance if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Wild Force" href="/Wild+Force" target=""><img title="rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare damage slashing on paragon type diablo iv wiki guide" width="50" height="50"/>Wild Force</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>+5.0% Attack Speed, +10.0% Damage with One-Handed Weapons</td> 
+     <td>Another +10.0% Damage with One-Handed Weapons if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Havoc" href="/Havoc" target=""><img title="rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare critical strike damage crowd on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Havoc</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>+10.0% Physical Damage, +15.0% Critical Strike Damage</td> 
+     <td>Another +15.0% Critical Strike Damage if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Slayer (Paragon Node)" href="/Slayer+(Paragon+Node)"><img title="rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_armor_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare armor on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Slayer (Paragon Node)</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>+100 Armor, +40% Potion Healing</td> 
+     <td>Another +100 Armor if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Heavy Blows" href="/Heavy+Blows" target=""><img title="rare_damage_slashing_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_critical_strike_damage_crowd_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare critical strike damage crowd on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Heavy Blows</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Flawless Technique</li> 
+      </ul> </td> 
+     <td>+15.0% Critical Strike Damage with One-Handed Weapons, +10 Strength</td> 
+     <td>Another +15.0% Critical Strike Damage with One-Handed Weapons if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Warbringer" href="/Warbringer" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Warbringer</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Warbringer</li> 
+      </ul> </td> 
+     <td>Warbringer: For every 75 Fury you spend, gain 12% of your Maximum Life (164) as Fortify.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Fire Resilience" href="/Fire+Resilience" target=""><img title="rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_fire_resistance_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare fire resistance on paragon type diablo iv wiki guide" width="50" height="50"/>Fire Resilience</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Warbringer</li> 
+      </ul> </td> 
+     <td>12.0% Fire Resistance, 4.0% Maximum Life</td> 
+     <td>Another 12.0% Fire Resistance if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Hungering Fury" href="/Hungering+Fury" target=""><img title="rare_essence_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png" alt="rare inner strength diablo iv wiki guide 50px" width="50" height="50"/>Hungering Fury</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;"> 
+      <ul> 
+       <li>Warbringer</li> 
+      </ul> </td> 
+     <td>+8 Maximum Fury, +2 Fury On Kill</td> 
+     <td>Another +8 Maximum Fury if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Guarded Advance" href="/Guarded+Advance" target=""><img title="rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_inner_strength_diablo_iv_wiki_guide_50px.png" alt="rare inner strength diablo iv wiki guide 50px" width="50" height="50"/>Guarded Advance</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Warbringer</td> 
+     <td>+10.0% Damage while Fortified, +65% Fortify Generation</td> 
+     <td>Another +10.0% Damage while Fortified if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Core Reserve" href="/Core+Reserve" target=""><img title="rare_essence_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_hungering_fury_diablo_iv_wiki_guide_50px.png" alt="rare hungering fury diablo iv wiki guide 50px" width="50" height="50"/>Core Reserve</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Warbringer</td> 
+     <td>+8 Maximum Fury, 4.0% Maximum Life</td> 
+     <td>Another 270 Willpower if requirements met: 
+      <ul> 
+       <li>270 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Conditioned" href="/Conditioned" target=""><img title="rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare resistance on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Conditioned</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Warbringer</td> 
+     <td>+10 Strength, 4.0% Resistance to All Elements</td> 
+     <td>Another 4.0% Resistance to All Elements if requirements met: 
+      <ul> 
+       <li>260 <a class="wiki_link" title="Diablo 4 Willpower" href="/Willpower" target="">Willpower</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Weapons Master" href="/Weapons+Master" target=""><img title="legendary_rage_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/legendary_rage_on_paragon_type_diablo_iv_wiki_guide.png" alt="legendary rage on paragon type diablo iv wiki guide" width="50" height="50"/>Weapons Master</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffcc99;">Legendary</span></td> 
+     <td style="text-align: center;">Weapons Master</td> 
+     <td>Swapping weapons grants you 3 Fury.</td> 
+     <td>-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Hunter Killer" href="/Hunter+Killer" target=""><img title="rare_dmg_reduction_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_damage_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare damage on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Hunter Killer</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Weapons Master</td> 
+     <td>+14.0% Movement Speed for 4 Seconds After Killing an Elite, +16.0% Damage to Elites</td> 
+     <td>Another +16.0% Damage to Elites if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Brute" href="/Brute" target=""><img title="rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_physical_dmg_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare physical dmg on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Brute</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Weapons Master</td> 
+     <td>+5.0% Attack Speed, +10.0% Physical Damage</td> 
+     <td>Another +10.0% Physical Damage if requirements met: 
+      <ul> 
+       <li>360 <a class="wiki_link" title="Diablo 4 Strength" href="/Strength" target="">Strength</a></li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Denial" href="/Denial" target=""><img title="rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_resistance_on_rogue_paragon_type_diablo_iv_wiki_guide.png" alt="rare resistance on rogue paragon type diablo iv wiki guide" width="50" height="50"/>Denial</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Weapons Master</td> 
+     <td>+100 Armor, 4.0% Resistance to All Elements</td> 
+     <td>Another 4.0% Resistance to All Elements if requirements met: 
+      <ul> 
+       <li>Varies according to the character class. Check on Paragon Node for more information.</li> 
+      </ul> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"> <h5><a class="wiki_link" title="Diablo 4 Lightning Conditioned" href="/Lightning+Conditioned" target=""><img title="rare_lightning_resistance_on_paragon_type_diablo_iv_wiki_guide" src="/file/Diablo-4/rare_lightning_resistance_on_paragon_type_diablo_iv_wiki_guide.png" alt="rare lightning resistance on paragon type diablo iv wiki guide" width="50" height="50"/>Lightning Conditioned</a></h5> </td> 
+     <td style="text-align: center;"><span style="color: #ffff99;">Rare</span></td> 
+     <td style="text-align: center;">Weapons Master</td> 
+     <td>12.0% Lightning Resistance, +100 Armor</td> 
+     <td>Another 12.0% Lightning Resistance if requirements met: 
+      <ul> 
+       <li>250 <a class="wiki_link" title="Diablo 4 Dexterity" href="/Dexterity" target="">Dexterity</a></li> 
+      </ul> </td> 
+    </tr> 
+   </tbody> 
+  <tfoot></tfoot></table>
